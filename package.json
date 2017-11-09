@@ -1,0 +1,15 @@
+{
+  "name": "notificaciones",
+  "version": "1.0.0",
+  "description": "Notificaciones con WebSocket en NodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Antonio Callisaya (Matt)",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2",
+    "websocket": "^1.0.25"
+  }
+}
